@@ -1,0 +1,7 @@
+tensorflow==2.15.0 ##recent one where keras is included as tf.keras(api)
+pandas
+numpy
+scikit-learn ##for data featuring and model evaluation
+tensorboard ##for visualization of training
+matplotlib ##for plotting graphs
+streamlit ##for web app deployment
